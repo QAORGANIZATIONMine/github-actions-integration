@@ -1,4 +1,4 @@
-# Veracode GitHub App  1234499
+# Veracode GitHub App  1234
 
 This repository includes the default workflows that are required for the Veracode GitHub app to function correctly. In addtion it includes the configuration file (veracode.yml).  
 
